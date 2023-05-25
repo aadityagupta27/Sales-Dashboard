@@ -1,2 +1,2 @@
 # Sales-Dashboard
-Sales Dashboard using React and Springboot.  
+Dynamic Sales Dashboard using React, Material UI and Springboot.  
